@@ -1,0 +1,21 @@
+reporting_item_id,reporting_period,legal_entity,source_system,ledger_balance,subledger_balance,variance_amount,variance_pct,materiality_threshold,certification_status,exception_age_days,manual_adjustment_flag,data_owner,dq_status
+SF-001,2026-03,Northstar Bank NA,GL_CORE,1250000.00,1249500.00,500.00,0.04,1.00,Certified,0,N,Finance Data Governance,Pass
+SF-002,2026-03,Northstar Bank NA,LOAN_SUBLEDGER,875000.00,868000.00,7000.00,0.80,1.00,Pending,5,N,Lending Finance,Pass
+SF-003,2026-03,Orion Capital LLC,TREASURY_HUB,2450000.00,2395000.00,55000.00,2.24,1.00,Certified,12,N,Treasury Finance,Pass
+SF-004,2026-03,,GL_CORE,450000.00,450000.00,0.00,0.00,1.00,Certified,0,N,Controller Group,Pass
+SF-005,2026-03,Harbor Trust Co,,990000.00,985000.00,5000.00,0.51,1.00,Certified,3,N,Financial Reporting,Pass
+SF-006,2026-03,Northstar Bank NA,DEPOSIT_SUBLEDGER,1325000.00,1325000.00,0.00,0.00,1.00,Missing,0,N,Deposit Finance,Pass
+SF-007,2026-03,Orion Capital LLC,GL_CORE,720000.00,719000.00,1000.00,0.14,1.00,Certified,18,Y,Controller Group,Pass
+SF-008,2026-03,Harbor Trust Co,SECURITY_MASTER,1850000.00,1840000.00,10000.00,0.54,1.00,Pending,22,N,Investment Finance,Warning
+SF-009,2026-03,Northstar Bank NA,LOAN_SUBLEDGER,2100000.00,1980000.00,120000.00,5.71,1.00,Pending,45,Y,Lending Finance,Fail
+SF-010,2026-03,Orion Capital LLC,TREASURY_HUB,640000.00,639500.00,500.00,0.08,1.00,Certified,0,N,Treasury Finance,Pass
+SF-011,2026-03,Harbor Trust Co,GL_CORE,305000.00,300000.00,5000.00,1.64,1.00,Certified,9,N,Financial Reporting,Pass
+SF-012,2026-03,Northstar Bank NA,REFERENCE_DATA,150000.00,150000.00,0.00,0.00,1.00,Certified,31,N,Finance Data Governance,Warning
+SF-013,2026-03,Orion Capital LLC,GL_CORE,980000.00,980000.00,0.00,0.00,1.00,Certified,0,N,Controller Group,Pass
+SF-014,2026-03,Harbor Trust Co,PAYMENTS_PLATFORM,560000.00,551000.00,9000.00,1.61,1.00,Pending,16,Y,Payments Finance,Warning
+SF-015,2026-03,Northstar Bank NA,GL_CORE,410000.00,410000.00,0.00,0.00,1.00,Certified,0,N,Controller Group,Fail
+SF-016,2026-03,Orion Capital LLC,DEPOSIT_SUBLEDGER,1195000.00,1190000.00,5000.00,0.42,1.00,Certified,14,N,Deposit Finance,Pass
+SF-017,2026-03,Harbor Trust Co,TREASURY_HUB,2250000.00,2200000.00,50000.00,2.22,1.00,Certified,38,N,Treasury Finance,Warning
+SF-018,2026-03,Northstar Bank NA,SECURITY_MASTER,760000.00,759500.00,500.00,0.07,1.00,Pending,4,N,Investment Finance,Pass
+SF-019,2026-03,Orion Capital LLC,,830000.00,820000.00,10000.00,1.20,1.00,Certified,11,N,Financial Reporting,Pass
+SF-020,2026-03,Harbor Trust Co,GL_CORE,1440000.00,1440000.00,0.00,0.00,1.00,Certified,0,N,Controller Group,Pass
