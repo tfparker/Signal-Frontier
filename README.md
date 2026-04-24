@@ -1,4 +1,5 @@
 # Signal Frontier
+© 2026 Tripp Parkerr. All rights reserved
 
 Signal Frontier is a governance-first finance reporting readiness prototype.
 
